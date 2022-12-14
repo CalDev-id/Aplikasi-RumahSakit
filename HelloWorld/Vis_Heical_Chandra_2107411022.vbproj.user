@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Pasien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Latihan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Keluhan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pendaftaran.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TambahKamar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="variable.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

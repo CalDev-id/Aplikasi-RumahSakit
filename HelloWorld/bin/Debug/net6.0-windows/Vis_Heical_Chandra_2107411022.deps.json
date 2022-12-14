@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Vis_Heical_Chandra_2107411022/1.0.0": {
+        "runtime": {
+          "Vis_Heical_Chandra_2107411022.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vis_Heical_Chandra_2107411022/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
